@@ -1,6 +1,6 @@
 # Hunt_SFD_model
-VBA Macro developed originally by Bruce Hunt, and re customized by Behrooz Etebari
-written for the California State Water Resources Control Board/ Division of Water Rights (SWRCB/DWR)
+VBA Macro developed originally by Bruce Hunt, and re customized by Behrooz Etebari,
+written for the California State Water Resources Control Board/ Division of Water Rights (SWRCB/DWR),
 behrooz.eteari@water.ca.gov
 
 https://sites.google.com/site/brucehuntsgroundwaterwebsite/
