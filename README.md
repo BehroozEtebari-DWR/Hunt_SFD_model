@@ -1,6 +1,6 @@
 # Hunt_SFD_model
 VBA Macro developed originally by Bruce Hunt, and was customized by Behrooz Eteabri
-
+https://sites.google.com/site/brucehuntsgroundwaterwebsite/
 Bruce Hunt's Groundwater Website:
 
 The purpose of this website is to provide computational tools for the analysis of some groundwater resource problems. These tools can be downloaded without charge and should be useful to both practicing professionals and students studying in the area of groundwater resources. A description of these tools follows:
