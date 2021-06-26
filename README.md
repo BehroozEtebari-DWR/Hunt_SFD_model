@@ -1,5 +1,5 @@
 # Hunt_SFD_model
-VBA Macro developed originally by Bruce Hunt, and was customized by Behrooz Eteabri
+VBA Macro developed originally by Bruce Hunt, and re customized by Behrooz Etebari
 https://sites.google.com/site/brucehuntsgroundwaterwebsite/
 Bruce Hunt's Groundwater Website:
 
